@@ -1,0 +1,59 @@
+{
+   "version": "1.0",
+   "defaultProvider": "cdnjs",
+   "libraries": [
+      {
+         "library": "twitter-bootstrap@4.6.0",
+         "destination": "wwwroot/lib/bootstrap/",
+         "files": [
+            "css/bootstrap.min.css",
+            "js/bootstrap.min.js"
+         ]
+      },
+      {
+         "library": "jquery@3.6.0",
+         "destination": "wwwroot/lib/jquery/",
+         "files": [
+            "jquery.min.js"
+         ]
+      },
+      {
+         "library": "font-awesome@4.7.0",
+         "destination": "wwwroot/lib/font-awesome/",
+         "files": [
+            "css/font-awesome.min.css",
+            "css/font-awesome.css.map",
+            "fonts/fontawesome-webfont.eot",
+            "fonts/fontawesome-webfont.svg",
+            "fonts/fontawesome-webfont.ttf",
+            "fonts/fontawesome-webfont.woff",
+            "fonts/fontawesome-webfont.woff2",
+            "fonts/FontAwesome.otf"
+         ]
+      },
+      {
+         "library": "jquery-validation-unobtrusive@3.2.12",
+         "destination": "wwwroot/lib/jquery/"
+      },
+      {
+         "library": "core-js@2.6.11",
+         "destination": "wwwroot/lib/core-js/"
+      },
+      {
+         "library": "jquery-validate@1.19.3",
+         "destination": "wwwroot/lib/jquery/",
+         "files": [
+            "jquery.validate.min.js"
+         ]
+      },
+      {
+         "library": "bootstrap-datetimepicker@4.17.47",
+         "destination": "wwwroot/lib/bootstrap-datetimepicker/"
+      },
+      {
+         "library": "moment.js@2.29.1",
+         "destination": "wwwroot/lib/moment/"
+      }
+   ]
+}
+// Updated 16 Sep 2021
